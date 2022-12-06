@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.apple.com/v/iphone/home/bk/images/overview/hero/iphone_14_hero__ceub5xriecgi_large_2x.jpg",
+        "title": "iphone 14 pro max",
+        "price": 180000,
+        "qty": 10,
+        "color": "Black",
+        "brand": "Apple",
+        "category": "phone"
+    },
+    {
+        "id": 2,
+        "img": "https://www.apple.com/v/iphone/home/bk/images/overview/hero/iphone_14_hero__ceub5xriecgi_large_2x.jpg",
+        "title": "iphone 13 pro max",
+        "price": 160000,
+        "qty": 15,
+        "color": "Silver",
+        "brand": "Apple",
+        "category": "phone"
+    }
+]
